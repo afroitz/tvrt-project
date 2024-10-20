@@ -1,0 +1,8 @@
+# ignore data dir
+data/
+
+# ignore temp dir
+temp/
+
+# ignore ds_store
+.DS_Store
