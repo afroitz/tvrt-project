@@ -1,0 +1,2 @@
+# TeleVision Rumor Tracking
+This directory contains the code and data used for the TeleVision rumor tracking project. The two subdirectories `/code` and `/data` each contain another README file detailing the contents of the respective directory.
