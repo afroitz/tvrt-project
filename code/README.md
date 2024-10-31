@@ -20,3 +20,4 @@ _ `/code/main_dataset`: Code related to the main data collection
 - `/code/main_dataset/anno_2_eval.ipynb`: Evaluates the second annotation iteration, including implementing the changes agreed on during the discussion.
 - `/code/main_dataset/anno_3_eval.ipynb`: Evaluates the third annotation iteration, including implementing the changes agreed on during the discussion.
 - `/code/main_dataset/inter_annotator_agreement.ipynb`: Generates statistics about inter annotator agreement and rumor distribution in all annotation iterations
+- `/code/main_dataset/release_dataset.ipynb`: Prepares the final dataset for release by removing unnecessary columns, removing unresolved differences and adding the label column

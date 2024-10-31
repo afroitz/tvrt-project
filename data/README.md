@@ -27,6 +27,7 @@ The `/data` directory contains four subdirectories:
 - `/data/annotation_results/anno_02_annotated.csv`: The annotated dataset from the second iteration
 `/data/annotation_results/anno_02_positive-cleaned.csv`: Positive samples from the second iteration with message footers removed. Used for preparing the third iteration set.
 - `/data/annotation_results/anno_03_annotated.csv`: The annotated dataset from the third iteration
+- `/data/annotation_results/tvrt_dataset.csv`: The final dataset with the annotations
 
 
 ## `/data/tasks`
